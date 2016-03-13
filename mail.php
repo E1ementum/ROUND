@@ -1,10 +1,9 @@
 <?php
 
-	/*
-		by LetMeCode.ru
-		skype: letmecode.ru
-		phone: +7 (938) 500-4-700
-	*/
+/*
+	skype: Elementum
+	vk: https://vk.com/e1ementum
+*/
 
 
 
